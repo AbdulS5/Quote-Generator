@@ -23,7 +23,7 @@ A quote generator web app built with JavaScript that fetches random quotes from 
 - HTML5 / CSS3
 - JavaScript (Fetch API, DOM)
 - Async/Await
-- AWS S3 (static_hosting)
+- AWS S3 (static hosting)
 
 ## 🧠 What I Learned
 
