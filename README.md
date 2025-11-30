@@ -9,6 +9,9 @@ A quote generator web app built with JavaScript that fetches random quotes from 
 ## Live Demo
 - http://abdul-quote-generator-2025.s3-website.us-east-2.amazonaws.com
 
+### 📹 Video Demo
+- https://drive.google.com/file/d/1WUo2Dj0An_asEwu0U27kh_rX_BJqnVc4/view?usp=sharing
+
 ## 🚀 Features
 
 - Fetches quotes from a public API
