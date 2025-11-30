@@ -28,6 +28,15 @@ A quote generator web app built with JavaScript that fetches random quotes from 
 - Async/Await
 - AWS S3 (static hosting)
 
+  ## 📌 Step-by-Step: How It Works  
+1. User clicks the **“New Quote”** button
+2. A **loading spinner** appears
+3. JavaScript calls a public quotes API using fetch()
+4. The API responds with a random quote
+5. The app updates the **DOM** with the quote and author
+6. Spinner hides and the quote appears
+7. User can click again for a new quote
+
 ## 🧠 What I Learned
 
 - Working with public APIs and async JavaScript
